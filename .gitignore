@@ -82,3 +82,5 @@ target/classes/logback.xml
 target/classes/templates/
 target/generated-sources/
 target/generated-test-sources/
+
+*.iml
