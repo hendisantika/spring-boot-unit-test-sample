@@ -67,3 +67,18 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.idea/.name
+.idea/artifacts/
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/markdown-navigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/vcs.xml
+target/classes/application.properties
+target/classes/logback.xml
+target/classes/templates/
+target/generated-sources/
+target/generated-test-sources/
